@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aishwarya9545
--confution hi confusion hai solution kuch pata nahi :-( 
+-confusion hi confusion hai solution kuch pata nahi :-( 
 
 <!---
 Aishwarya9545/Aishwarya9545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
